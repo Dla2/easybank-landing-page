@@ -35,7 +35,7 @@ section .hero-imgs img {
 section .hero-text {
 	position: relative;
 	margin-top: -40%;
-    padding: 1rem 2rem;
+    padding: 1rem 2rem 5.5rem;
     text-align: center;
     display: flex;
     flex-direction: column;
